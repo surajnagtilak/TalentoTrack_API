@@ -1,0 +1,321 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt\\Restarunt.csproj": {}
+  },
+  "projects": {
+    "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj",
+        "projectName": "Restarunt.common",
+        "projectPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj",
+        "packagesPath": "C:\\Users\\Suraj\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Suraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Dao\\Restarunt.Dao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Dao\\Restarunt.Dao.csproj",
+        "projectName": "Restarunt.Dao",
+        "projectPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Dao\\Restarunt.Dao.csproj",
+        "packagesPath": "C:\\Users\\Suraj\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Dao\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Suraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj": {
+                "projectPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\Restarunt.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\Restarunt.Services.csproj",
+        "projectName": "Restarunt.Services",
+        "projectPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\Restarunt.Services.csproj",
+        "packagesPath": "C:\\Users\\Suraj\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Suraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj": {
+                "projectPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt\\Restarunt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt\\Restarunt.csproj",
+        "projectName": "Restarunt",
+        "projectPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt\\Restarunt.csproj",
+        "packagesPath": "C:\\Users\\Suraj\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Suraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj": {
+                "projectPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj"
+              },
+              "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Dao\\Restarunt.Dao.csproj": {
+                "projectPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Dao\\Restarunt.Dao.csproj"
+              },
+              "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\Restarunt.Services.csproj": {
+                "projectPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\Restarunt.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
