@@ -1,0 +1,17 @@
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Dao\bin\Debug\net7.0\Restarunt.Dao.deps.json
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Dao\bin\Debug\net7.0\Restarunt.Dao.runtimeconfig.json
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Dao\bin\Debug\net7.0\Restarunt.Dao.dll
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Dao\bin\Debug\net7.0\Restarunt.Dao.pdb
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Dao\bin\Debug\net7.0\Restarunt.common.dll
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Dao\bin\Debug\net7.0\Restarunt.common.pdb
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Dao\obj\Debug\net7.0\Restarunt.Dao.csproj.AssemblyReference.cache
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Dao\obj\Debug\net7.0\Restarunt.Dao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Dao\obj\Debug\net7.0\Restarunt.Dao.AssemblyInfoInputs.cache
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Dao\obj\Debug\net7.0\Restarunt.Dao.AssemblyInfo.cs
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Dao\obj\Debug\net7.0\Restarunt.Dao.csproj.CoreCompileInputs.cache
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Dao\obj\Debug\net7.0\Restarunt.Dao.csproj.CopyComplete
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Dao\obj\Debug\net7.0\Restarunt.Dao.dll
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Dao\obj\Debug\net7.0\refint\Restarunt.Dao.dll
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Dao\obj\Debug\net7.0\Restarunt.Dao.pdb
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Dao\obj\Debug\net7.0\Restarunt.Dao.genruntimeconfig.cache
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Dao\obj\Debug\net7.0\ref\Restarunt.Dao.dll

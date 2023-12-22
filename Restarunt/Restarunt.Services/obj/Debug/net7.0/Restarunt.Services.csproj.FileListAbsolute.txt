@@ -1,0 +1,17 @@
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Services\bin\Debug\net7.0\Restarunt.Services.deps.json
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Services\bin\Debug\net7.0\Restarunt.Services.runtimeconfig.json
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Services\bin\Debug\net7.0\Restarunt.Services.dll
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Services\bin\Debug\net7.0\Restarunt.Services.pdb
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Services\bin\Debug\net7.0\Restarunt.common.dll
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Services\bin\Debug\net7.0\Restarunt.common.pdb
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Services\obj\Debug\net7.0\Restarunt.Services.csproj.AssemblyReference.cache
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Services\obj\Debug\net7.0\Restarunt.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Services\obj\Debug\net7.0\Restarunt.Services.AssemblyInfoInputs.cache
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Services\obj\Debug\net7.0\Restarunt.Services.AssemblyInfo.cs
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Services\obj\Debug\net7.0\Restarunt.Services.csproj.CoreCompileInputs.cache
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Services\obj\Debug\net7.0\Restarunt.Services.csproj.CopyComplete
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Services\obj\Debug\net7.0\Restarunt.Services.dll
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Services\obj\Debug\net7.0\refint\Restarunt.Services.dll
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Services\obj\Debug\net7.0\Restarunt.Services.pdb
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Services\obj\Debug\net7.0\Restarunt.Services.genruntimeconfig.cache
+D:\Desktop\23_task\TalentoTrack_API\Restarunt\Restarunt.Services\obj\Debug\net7.0\ref\Restarunt.Services.dll
