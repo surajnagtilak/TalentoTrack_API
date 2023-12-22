@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UZaGO5ny6dGqcV2H25Un/L2K+bQHZo0QMtUy3EXJVKBB+e5DV1GHvTbGSmhTM0UUIFxXWvbCRwa7bovLmkkKcQ==",
+  "dgSpecHash": "Ty7ErHaBZBo2SuXx4P2bREx4ZkePum6+DcXL2kgdeJOjvP7rtMMVpdMTJCoj9EKeac2lVNIH7XlRnC3NU21hnw==",
   "success": true,
-  "projectFilePath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\Restarunt.Services.csproj",
+  "projectFilePath": "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\Restarunt.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Suraj\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Suraj\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

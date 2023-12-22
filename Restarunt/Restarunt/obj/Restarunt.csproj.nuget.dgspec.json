@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt\\Restarunt.csproj": {}
+    "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt\\Restarunt.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj": {
+    "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj",
+        "projectUniqueName": "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj",
         "projectName": "Restarunt.common",
-        "projectPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj",
+        "projectPath": "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj",
         "packagesPath": "C:\\Users\\Suraj\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\obj\\",
+        "outputPath": "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Suraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,17 +79,21 @@
         }
       }
     },
-    "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Dao\\Restarunt.Dao.csproj": {
+    "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.Dao\\Restarunt.Dao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Dao\\Restarunt.Dao.csproj",
+        "projectUniqueName": "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.Dao\\Restarunt.Dao.csproj",
         "projectName": "Restarunt.Dao",
-        "projectPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Dao\\Restarunt.Dao.csproj",
+        "projectPath": "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.Dao\\Restarunt.Dao.csproj",
         "packagesPath": "C:\\Users\\Suraj\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Dao\\obj\\",
+        "outputPath": "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.Dao\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Suraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -99,8 +107,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj": {
-                "projectPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj"
+              "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj": {
+                "projectPath": "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj"
               }
             }
           }
@@ -150,17 +158,21 @@
         }
       }
     },
-    "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\Restarunt.Services.csproj": {
+    "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\Restarunt.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\Restarunt.Services.csproj",
+        "projectUniqueName": "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\Restarunt.Services.csproj",
         "projectName": "Restarunt.Services",
-        "projectPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\Restarunt.Services.csproj",
+        "projectPath": "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\Restarunt.Services.csproj",
         "packagesPath": "C:\\Users\\Suraj\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\obj\\",
+        "outputPath": "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Suraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -174,8 +186,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj": {
-                "projectPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj"
+              "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj": {
+                "projectPath": "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj"
               }
             }
           }
@@ -225,17 +237,21 @@
         }
       }
     },
-    "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt\\Restarunt.csproj": {
+    "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt\\Restarunt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt\\Restarunt.csproj",
+        "projectUniqueName": "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt\\Restarunt.csproj",
         "projectName": "Restarunt",
-        "projectPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt\\Restarunt.csproj",
+        "projectPath": "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt\\Restarunt.csproj",
         "packagesPath": "C:\\Users\\Suraj\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt\\obj\\",
+        "outputPath": "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Suraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -249,14 +265,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj": {
-                "projectPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj"
+              "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj": {
+                "projectPath": "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.common\\Restarunt.common.csproj"
               },
-              "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Dao\\Restarunt.Dao.csproj": {
-                "projectPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Dao\\Restarunt.Dao.csproj"
+              "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.Dao\\Restarunt.Dao.csproj": {
+                "projectPath": "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.Dao\\Restarunt.Dao.csproj"
               },
-              "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\Restarunt.Services.csproj": {
-                "projectPath": "D:\\Desktop\\Sn-workspace\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\Restarunt.Services.csproj"
+              "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\Restarunt.Services.csproj": {
+                "projectPath": "D:\\Desktop\\23_task\\TalentoTrack_API\\Restarunt\\Restarunt.Services\\Restarunt.Services.csproj"
               }
             }
           }
